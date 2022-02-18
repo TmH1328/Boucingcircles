@@ -10,5 +10,5 @@ package model;
  * @author LENOVO
  */
 public class Food {
-    
+    private int price;
 }
